@@ -2,7 +2,7 @@
 site: sandpaper::sandpaper_site
 ---
 
-Welcome to The Carpentries "Running Effective Online Meetings"!
+Welcome to The Carpentries course on Running Effective Online Meetings.
 
 This is a professional development course teaching practical skills for running engaging, productive, and inclusive virtual meetings. This curriculum was designed to be taught over three hours. The target audience is anyone responsible for organising and facilitating online meetings in their workplace or community. It is particularly relevant for:
 
