@@ -49,7 +49,7 @@ create a final agenda, selecting the most important, time-sensitive, and/or impa
 you have too many items to cover in one meeting, be sure to set target dates for any items that are being reserved for future
 meetings and communicate those dates with the individuals who proposed those items. It can be very demotivating to propose items for discussion only to have them disappear into the ether! It may be useful to maintain a "garage" for future meeting topics, along with their associated dates, for transparency and accountability. 
 
-If items are submitted that don't require discussion or feedback (for example, announcements), these
+If items are submitted that do not require discussion or feedback (for example, announcements), these
 can be highlighted at the top of the agenda in a dedicated "non-verbal updates" section. Keep this section short and to-the-point. Attendees should be able to read it while they settle in for the meeting. 
 
 ## Time estimates
