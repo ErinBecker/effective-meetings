@@ -33,7 +33,7 @@ show that they want a turn to speak by using your video-conferencing platform's 
 
 ## Assigning Roles
 
-Make sure roles are assigned fairly. Don't rely on volunteers, as the junior people in the meeting will feel implicit pressure to take the less powerful roles (like notetaker) and will be less likely to take on more powerful roles (like facilitator). Do provide an option for people to opt-out of roles, either for an individual meeting (they may be trying to eat lunch or managing care-giving duties), or for all meetings (someone who uses voice-typing may not be able to be notetaker).
+Make sure roles are assigned fairly. Don't rely on volunteers, as the junior people in the meeting will feel implicit pressure to take the roles that are perceived to have less power (like notetaker) and will be less likely to take on more powerful roles (like facilitator). Do provide an option for people to opt out of roles, either for an individual meeting (they may be trying to eat lunch or managing care-giving duties), or for all meetings (someone who uses voice-typing may not be able to be notetaker).
 
 
 ## A Note on Culture
