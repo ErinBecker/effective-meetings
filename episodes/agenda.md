@@ -29,7 +29,7 @@ the meeting host should take some time in advance to decide what topics will be 
 
 ## Collecting agenda items
 
-If you're hosting a meeting, you will Likely already have some ideas for the agenda, but you should also have a process for 
+If you're hosting a meeting, you will likely already have some ideas for the agenda, but you should also have a process for 
 attendees to propose agenda items. This is especially true if your meeting is a recurring meeting with the 
 same group members (e.g. a weekly project team meeting). Enabling attendees to propose agenda items for the group's discussion
 and co-working increases the overall impact and buy-in for the meeting. Attendees will be able to use meeting time to get
