@@ -34,7 +34,7 @@ attendees to propose agenda items. This is especially true if your meeting is a 
 same group members (e.g. a weekly project team meeting). Enabling attendees to propose agenda items for the group's discussion
 and co-working increases the overall impact and buy-in for the meeting. Attendees will be able to use meeting time to get
 feedback on products they've been developing, help to overcome obstacles they've encountered, and insights into questions 
-that benefit from multiple perspectives. Instead of using meeting time wishing the meeting was over so they could get their
+that benefit from multiple perspectives. Instead of spending meeting time wishing the meeting was over so they could get their
 "real work" done, attendees will be motivated to participate fully in the meeting because it directly progresses their and other project member's goals. 
 
 The Carpentries uses a Google form to collect agenda item suggestions for our weekly full-team meeting, 
