@@ -76,7 +76,10 @@ To begin class, each instructor should give a brief introduction of themselves.
 
 ## Running Effective Online Meetings Overview
 
-We've all had experiences with terrible meetings. They start late, last too long, and never seem to meet their objectives. Sometimes they don't even seem to have objectives! This course will teach you the skills you need to run good meetings - meetings that make good use of 
+We've all had experiences with terrible meetings. 
+They start late, last too long, and never seem to meet their objectives. 
+Sometimes they don't even seem to have objectives! 
+This course will teach you the skills you need to run good meetings - meetings that make good use of 
 peoples' time, make progress towards your group's goals, and ensure all participants ideas and perspectives are brought to the table.
 
 Before we begin, we'll take a few minutes to share some of our bad meeting experiences and unpack what made them so bad!
@@ -91,17 +94,15 @@ Think of an example of a bad meeting you attended.
 * What did you find was making you not want to attend more meetings like it? 
 * Why did it make such an impression on you?
 
-Try to differentiate between **what was bad about the behavior** of the meeting leader and participants
-and **what was bad about the setup** of the meeting.
+Try to differentiate between **what was bad about the behavior** of the meeting leader and participants and **what was bad about the setup** of the meeting.
 
-Take a few minutes to write down some notes about your answer,
-then introduce yourself to the other participants and tell them about it.
+Take a few minutes to write down some notes about your answer, then introduce yourself to the other participants and tell them about it.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-During the course, we will introduce the steps you can take to design a meeting environment that brings together all meeting
-participants in an inclusive and welcoming way to make progress towards your group's goals. By the end of the course, you can expect to 
-have developed and practiced strategies for crafting meaningful agendas, focusing group discussion towards outcomes, ensuring everyone's perspective is shared, and dealing with common disruptive behaviours. Let's get started!
+During the course, we will introduce the steps you can take to design a meeting environment that brings together all meeting participants in an inclusive and welcoming way to make progress towards your group's goals. 
+By the end of the course, you can expect to have developed and practiced strategies for crafting meaningful agendas, focusing group discussion towards outcomes, ensuring everyone's perspective is shared, and dealing with common disruptive behaviours. 
+Let's get started!
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
