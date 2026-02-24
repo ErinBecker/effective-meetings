@@ -48,6 +48,8 @@ After the deadline has passed, but at least a day before the meeting, the meetin
 If you have too many items to cover in one meeting, be sure to set target dates for any items that are being reserved for future meetings and communicate those dates with the individuals who proposed those items. 
 It can be very demotivating to propose items for discussion only to have them disappear into the ether! 
 It may be useful to maintain a "garage" for future meeting topics, along with their associated dates, for transparency and accountability. 
+The meeting host will keep the "garage" list up to date by adding new items as they are submitted and removing items once they have been discussed.
+This can be done directly on the agenda document, or on a separate document or spreadsheet, so long as it is accessible to participants.
 
 If items are submitted that don't require discussion or feedback (for example, announcements), these
 can be highlighted at the top of the agenda in a dedicated "non-verbal updates" section. 
