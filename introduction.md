@@ -80,7 +80,7 @@ We've all had experiences with terrible meetings.
 They start late, last too long, and never seem to meet their objectives. 
 Sometimes they don't even seem to have objectives! 
 This course will teach you the skills you need to run good meetings - meetings that make good use of 
-peoples' time, make progress towards your group's goals, and ensure all participants ideas and perspectives are brought to the table.
+peoples' time, make progress towards your group's goals, and ensure all participants' ideas and perspectives are brought to the table.
 
 Before we begin, we'll take a few minutes to share some of our bad meeting experiences and unpack what made them so bad!
 
