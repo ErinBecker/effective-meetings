@@ -16,7 +16,7 @@ TBD
 ::::::::::::::::
 
 Now that you've done the important work of deciding what your meeting is about, what 
-you want to discuss and decide, and for how long, now its time to make sure the 
+you want to discuss and decide, and for how long, now it's time to make sure the 
 meeting itself runs smoothly. In order to do this, you will need individuals to take
 on a couple of specific roles - a Facilitator, a Timekeeper, and a Notetaker. 
 
