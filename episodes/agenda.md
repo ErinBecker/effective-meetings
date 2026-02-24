@@ -67,6 +67,24 @@ For online meetings spanning multiple time zones, start and end times should be 
 For example, a 15 minute agenda item starting at the top of the hour can be listed as :00 - :15). 
 Time stamps should be adjusted by the timekeeper as meeting time is requested and ceded.
 
+```markdown
+## Garage
+* Update on brand refresh project (15 min) - Kathleen (September meeting)
+
+## 17 August, 2026
+
+### Pre-meeting reading
+* Please browse [the data model schematic](https://example.org/data-model-schematic.png) before joining the meeting
+
+### Non-verbal updates
+* Reminder: equipment inventory updates due 22 August.
+
+### Agenda
+* Shuttle launch retrospective (20 min, :00 - :20) - Rob
+* Feedback on community data model (15 min, :20 - :35) - Yochannah
+* Planning Q3 seminar schedule (15 min, :35 - :50) - Patricia
+
+```
 The meeting host should send the meeting agenda to all participants at least 24-hours before the meeting along with any required pre-reading or other preparation. 
 
 :::::: challenge
