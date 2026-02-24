@@ -1,4 +1,4 @@
----
+=---
 title: Creating an agenda
 teaching: 20
 exercises: 10
@@ -15,7 +15,7 @@ exercises: 10
 
 After completing this episode, participants will be able to...
 
-- Collect proposed agenda items from meeting attendees
+- Collect proposed agenda items from meeting participants
 - Triage to create a maximally-impactful agenda
 - Establish a transparent process for saving items for future meetings
 
@@ -30,12 +30,12 @@ the meeting host should take some time in advance to decide what topics will be 
 ## Collecting agenda items
 
 If you're hosting a meeting, you will Likely already have some ideas for the agenda, but you should also have a process for 
-attendees to propose agenda items. This is especially true if your meeting is a recurring meeting with the 
-same group members (e.g. a weekly project team meeting). Enabling attendees to propose agenda items for the group's discussion
-and co-working increases the overall impact and buy-in for the meeting. Attendees will be able to use meeting time to get
+participants to propose agenda items. This is especially true if your meeting is a recurring meeting with the 
+same group members (e.g. a weekly project team meeting). Enabling participants to propose agenda items for the group's discussion
+and co-working increases the overall impact and buy-in for the meeting. Participants will be able to use meeting time to get
 feedback on products they've been developing, help to overcome obstacles they've encountered, and insights into questions 
 that benefit from multiple perspectives. Instead of using meeting time wishing the meeting was over so they could get their
-"real work" done, attendees will be motivated to participate fully in the meeting because it directly progresses their and other project member's goals. 
+"real work" done, participants will be motivated to engage fully in the meeting because it directly progresses their and other project member's goals. 
 
 The Carpentries uses a Google form to collect agenda item suggestions for our weekly full-team meeting, 
 but your team can use any method. For informal, 
@@ -50,7 +50,7 @@ you have too many items to cover in one meeting, be sure to set target dates for
 meetings and communicate those dates with the individuals who proposed those items. It can be very demotivating to propose items for discussion only to have them disappear into the ether! It may be useful to maintain a "garage" for future meeting topics, along with their associated dates, for transparency and accountability. 
 
 If items are submitted that don't require discussion or feedback (for example, announcements), these
-can be highlighted at the top of the agenda in a dedicated "non-verbal updates" section. Keep this section short and to-the-point. Attendees should be able to read it while they settle in for the meeting. 
+can be highlighted at the top of the agenda in a dedicated "non-verbal updates" section. Keep this section short and to-the-point. Participants should be able to read it while they settle in for the meeting. 
 
 ## Time estimates
 
