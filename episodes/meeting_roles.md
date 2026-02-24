@@ -113,6 +113,7 @@ Having a backup in place will help protect your meeting against the uncertaintie
 It can be scary to hand over control of a meeting to the other participants, especially after you've put in so much work to coordinating schedules and designing an amazing agenda!
 How can you help ensure meeting roles are carried out successfully, and what signs can you watch for that might indicate problems? 
 
+<!-- add exercise description here -->
 
 
 :::::::::::::::::: 
