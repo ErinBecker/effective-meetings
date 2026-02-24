@@ -91,7 +91,7 @@ Think of an example of a bad meeting you attended.
 * What did you find was making you not want to attend more meetings like it? 
 * Why did it make such an impression on you?
 
-Try to differentiate between **what was bad about the behavior** of the meeting leader and attendees
+Try to differentiate between **what was bad about the behavior** of the meeting leader and participants
 and **what was bad about the setup** of the meeting.
 
 Take a few minutes to write down some notes about your answer,
