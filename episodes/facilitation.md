@@ -119,37 +119,41 @@ The group will likely come up with a few of the strategies below (as well as oth
 The meeting Facilitator should highlight the strategies the group has identified, including any recurring themes, while adding any from the list below that have been missed. 
 
 
+**Facilitator Strategies**
+
+- Clarify the decision stage, ideally at the start of the agenda item. Is this item being raised for initial brainstorming, or is a decision needed today?
+- Clarify consequences of delay. What happens if the decision isn't made today?
+- Set decision making rules in advance. We will discuss this in detail later in this lesson.
+- Ask participants to restrict comments to those that add new information or concerns.
+- Summarise and test for consensus (e.g. "It sounds like there is general agreement about X, but a concern about Y. Is that a fair summary?")
+- Ask participants to be specific about risk levels. How likely is the scenario they are raising? If it does occur, how critical would it be?
+- Redirect details to asynchronous follow-up. 
+
+**Participant Strategies**
+
+- Avoid performing "devil's advocacy" unless explicitly invited.
+- State your own position before critiquing others'.
+- Acknowledge when the discussion is becoming too detail-oriented (e.g. "Is this something we can follow-up on async?")
+- Volunteer to handle implementation details outside of the meeting.
+- Offer synthesis to help clarify possible directions (e.g. "It sounds like the two paths forward are A and B.")
 
 ::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::
 
+## Proactively Handling Disruptive Behavior
 
-### Overly Positive
-
-<!-- Eager -->
-Overly positive participants may be too agreeable, leading to overcommitments without critical assessment of viability. This can lead to under delivery or increased team stress when deliverables are due.
-
-
-### Diverting Conversation
-<!-- Diverting -->
-
-Some participants frequently attempt to divert the conversation, this may be an attempt to stay light-hearted during stressful meeting or simply disinterest in the topic. This may lead to the meeting running over time, or agenda items not being completed.
-
-<!-- Not covered: Shy, Apathetic -->
-
-## Handling disruptive behaviour
-
-Dealing with disruptions can be slightly scary, but the other meeting participants rely on you, as the chair, to bring the meeting back on track. Most of the times this can be done in a gentle, non-confrontational manner. This can be done as a two-step intervention:
+Dealing with disruptions can be scary, especially if you are not the most senior person in the room, but the other meeting participants rely on you, as the Facilitator, to bring the meeting back on track. 
+Most of the times this can be done in a gentle, non-confrontational manner using a two-step intervention:
 
 - First, interrupt, if necessary, and state your observation of what is happening. E.g. "We are getting a bit of track here and are no longer talking about our objective."
-- Second, suggest a constructive way forward. E.g. "Let us refocus, the question we were discussing was... Who can suggest a solution here?"
+- Second, suggest a constructive way forward. E.g. "Let us refocus, the question we were discussing was... Who can suggest a solution?"
 
-However, if this is not successful, it might be necessary to be firmer in calling out the disruption. Address the disrupting person by name, and tell them what to do or stop doing. For example, "Tina, please refrain from using dismissive language when talking about your colleagues work."
+However, if this is not successful, it might be necessary to be firmer in calling out the disruption. 
+Address the disrupting person by name, and tell them what to do or stop doing. 
+For example, "Tina, please don't interrupt."
 
-See also
-- [Life Labs Learning: Meeting Course Correction](https://www.lifelabslearning.com/book/download/meeting-course-corrections)
-- [NOAA: Dealing with disruptive behaviours](https://coast.noaa.gov/ddb/)
+For more actionable meeting facilitation strategies, we recommend checking out the Life Labs Learning two-page [Meeting Course-Correction Guide](www.lifelabslearning.com/book/download/meeting-course-corrections). 
 
 
 :::::::::::::::::::::::::::::::::::::: discussion
