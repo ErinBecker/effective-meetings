@@ -153,7 +153,7 @@ However, if this is not successful, it might be necessary to be firmer in callin
 Address the disrupting person by name, and tell them what to do or stop doing. 
 For example, "Tina, please don't interrupt."
 
-For more actionable meeting facilitation strategies, we recommend checking out the Life Labs Learning two-page [Meeting Course-Correction Guide](www.lifelabslearning.com/book/download/meeting-course-corrections). 
+For more actionable meeting facilitation strategies, we recommend checking out the Life Labs Learning two-page [Meeting Course-Correction Guide](https://www.lifelabslearning.com/book/download/meeting-course-corrections). 
 
 
 :::::::::::::::::::::::::::::::::::::: discussion
