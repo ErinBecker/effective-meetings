@@ -92,7 +92,7 @@ To build their confidence, make sure to express your appreciation and some words
 
 The Timekeeper's role is to monitor the clock and alert the Facilitator when time is running short for an item. 
 They will adjust the agenda timestamps as needed based on input from the Facilitator and other participants. 
-For example, the owner of a later agenda item may decide to donate time to the current item if the discussion is being productive, or may ask the Facilitator to move their item to the garage for a future meeting.
+For example, there may be empty "buffer" time at the end of the agenda, and/or the owner of a later agenda item may decide to donate time to the current item if the discussion is being productive, or may ask the Facilitator to move their item to the garage for a future meeting.
 
 The Timekeeper's role is informational, not decisive. 
 Once the Timekeeper has notified the Facilitator about the timing status, it is the Facilitator's decision whether to reallocate time or move to the next item.
