@@ -87,7 +87,7 @@ As the meeting Facilitator, some things you can do to disrupt this pattern inclu
 Even if you are not the Facilitator, if you are in a position of relative privilege, there are some things you can do at any meeting you attend to help equalise opportunities: 
 
 - If you frequently are the first to speak, consider waiting to put up your hand until at least one or two others have shared their thoughts.
-- If the point you were going to make has been made by someone else, put down your hand and note in the chat that you agree with Mariam.
+- If the point you were going to make has been made by someone else, put down your hand and note in the chat that you agree with them (e.g. "+1 to Mariam's point").
 - If the next person on the list has spoken less than you, consider ceding your hand to them.
 
 These strategies can be particularly effective if the individuals you are ceding time to or noting agreement with are members of marginalised groups.
