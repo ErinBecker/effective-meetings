@@ -25,8 +25,22 @@ At the end of this episode, participants will be able to...
 ## Introduction
 
 The meeting host may have done all of the necessary steps to prepare for a good meeting, including putting together a meaningful agenda and preparing participants to serve in the various meeting roles.
-However, once the meeting starts, and you've brought your participants together into your virtual space, a number of personality traits and behaviours may combine to make the meeting uninspiring, demotivating, and downright painful.
+However, once the meeting starts, and you've brought your participants together into your virtual space, a number of behaviours may combine to make the meeting uninspiring, demotivating, and downright painful.
 These behaviours can be particularly challenging when participants span multiple levels of your organisation's hierarchy, or have different levels of power due to systemic social marginalisation. 
+
+:::::::::::::::: callout
+
+## "Behaviours" versus "People"
+
+
+In discussing issues that may arise during meeting facilitation, we find it helpful to focus on specific *behaviours* that individuals may exhibit, rather than on the *people* themselves.
+We take this approach for two reasons: 
+
+1) Peoples' behaviour naturally varies in different situations. Someone who goes off on long tangents in the morning before they've had their caffeine, may be more to-the-point after their first hot cuppa. 
+2) As an organization dedicated to the idea of "Always Learning", we strongly believe that people can change their behaviour over time and learn to be more helpful, productive, and welcoming meeting participants!
+
+::::::::::::::::::::::::
+
 
 Although you may not be able to flatten the organisational hierarchy or correct long-standing imbalances in power distribution in society, there are steps you can take during a meeting to mitigate negative disruptive behaviours. 
 Some of these strategies are most easily implemented when you are serving as the meeting Facilitator, but others can be enacted by any meeting participant.
