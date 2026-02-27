@@ -103,7 +103,7 @@ They may also continue to raise issues that have already been resolved, or keep 
 Similarly, someone who is overly indecisive may spend an inappropriate amount of time considering every detail of a proposed solution.
 While these considerations may be necessary to implement the decision, the meeting itself may not be the appropriate venue to hash out those details. 
 
-Each of these behavior types may have the effect of slowing down the meeting's progress and preventing important decisions from being reached. 
+Although it can be important to consider a given issue from multiple angles, each of these behavior types may have the effect of slowing down the meeting's progress and preventing important decisions from being reached. 
 Let's apply our previous discussion of issues with individuals dominating conversations to identify strategies that facilitators and individual meeting participants can use to mitigate these issues. 
 
 :::::::::: challenge
