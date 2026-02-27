@@ -114,6 +114,8 @@ More guidelines on how to take good notes will be covered later in this lesson.
 
 The Backup does not play a specific role during the meeting, but rather is prepared to step into any role as needed, either temporarily or for the remainder of the meeting.
 For example, if the Notetaker has to leave their desk to deal with an urgent phone call, or if the Facilitator's internet connection drops.
+The Backup will also take notes when the Notetaker is speaking. 
+This allows the Notetaker to participate fully in the meeting without worrying about their contributions being missed.
 Having a backup in place will help protect your meeting against the uncertainties of the digital workplace, and will also have the secondary effect of increasing participant attention!
 
 :::::: challenge
