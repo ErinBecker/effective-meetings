@@ -78,6 +78,16 @@ In smaller groups, especially those with recurring attendees, it may be more app
 It will also be the Facilitator's job to moderate disruptive behaviours that may occur during the meeting, such as an individual dominating the conversation or interrupting other participants.
 We will learn specific strategies for dealing with disruptive behaviours later in this lesson.
 
+:::::::::::::::::::::::::::::::::: callout
+
+### Building Facilitator confidence
+Some group members may feel uncomfortable taking on the role of Facilitator, especially newcomers and those in more junior positions.
+We recommend avoiding assigning the role to anyone who has not had a few previous opportunities to observe it in practice.
+If anyone feels uncertain about acting as Facilitator, it can be helpful to reassure them that participants typically feel grateful to somebody who takes responsibility for ensuring that the meeting runs smoothly.
+To build their confidence, make sure to express your appreciation and some words of encouragement as needed, and offer constructive feedback if they ask for it.
+
+::::::::::::::::::::::::::::::::::::::::::
+
 ## The Timekeeper
 
 The Timekeeper's role is to monitor the clock and alert the Facilitator when time is running short for an item. 
