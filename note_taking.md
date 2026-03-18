@@ -1,5 +1,5 @@
 ---
-title: Note taking
+title: Note Taking
 teaching: 30
 exercises: 15
 ---
@@ -7,6 +7,7 @@ exercises: 15
 :::::: questions
 
 * What information is important to capture during a meeting? 
+* Why are humans the best note takers?
 
 ::::::::::::::::
 
@@ -16,7 +17,7 @@ exercises: 15
 At the end of this episode, participants will be able to...
 
 - Succinctly capture decisions, action items, owners, and deadlines in meeting notes. 
-- 
+- Describe why human-curated notes are worth investing effort into.
 
 ::::::::::::::::
 
@@ -35,36 +36,41 @@ Depending on the formality of the meeting (e.g. a Board meeting), you may also h
 ## Why Your Notetaker Should be a Human
 
 You may be wondering why you should bother to take notes at all.
-After all, most, if not all, video conferencing systems now enable automated note taking with AI tools.
+After all, most, if not all, video conferencing systems now enable automated note taking with GenAI tools.
 The makers of these tools claim they can capture conversations, record action items, and circulate meeting notes to participants, without you having to do any of the work!
 Although these tools are becoming more popular, we strongly advise against relying on them, and urge careful consideration before deciding to use them in your meetings at all.
 There are a number of reasons to instead trust your note taking duties to a human, including security and privacy, quality, and usefulness of the resulting notes. 
 
 ### Security and Privacy
 
-- AI notetakers expose your meeting data to the company that owns the tool (problems for confidentiality)
-- Some of these issues are issues of *accuracy* but others are issues of *usefulness*. If your AI tool is going to capture everything said during the meeting, a human still needs to go through those notes and correct them or actionabilize them.
-- AI notetakers might also hallucinate things . . . 
+Although these points have been made in many other venues, it bears repeating that commercially available AI note taking software is a commercial product, built to make money for its creators.
+Depending on the terms of service for a particular platform, this often means that your meeting data, including the whole meeting transcript, is exposed to the company that owns the tool. 
+This can raise significant issues for confidentiality, data ownership, and copyright.
+Enabling AI note-taking agents on your video calls can also lead to situations where meeting transcripts, summaries, or recordings are automatically sent to meeting participants, invitees, or mailing lists - including un-official pre- or post-meeting discussions that may have been "off the record"!
 
 
 ### Quality
 
 Because all AI tools are dependent on their training data, AI note takers often perform more poorly when speakers have accents different from the majority language community used for training.
-In effect, this means that meeting participants who are not native speakers of  
+In effect, this means that meeting participants who are not native speakers of American or British English will be disadvantaged by many popular AI notetakers.
+The note taking tool may "mishear" a word, phrase, or entire sentence and backfill that information with probabilistic slop.  
+A note taking tool is also likely to make mistakes in capturing technical terms, field-specific jargon, or company internal terminology, and again, will make up filler to compensate.
+A human note taker is more likely to ask questions when they are uncertain about what has been said!
 
-- Better with regional variations in speech / accents
-- Humans know the technical terms / jargon your group is using (or if they don't they might ask a question instead of guessing!)
 
 ### Usefulness
 
-- Better at filtering important information
-- Able to capture decision points
-- Can proactively clarify points of confusion for the record
+With the exception of a few very specialised types of meetings, notes should not be a transcript of the meeting.
+Instead, they should be a record that clearly and concisely lays out the important points of conversation, decisions made, and action steps needing follow up.
+An attentive meeting participant is much more capable of extracting meaning from a conversation. 
+Humans are also more likely to correctly identify things like sarcasm, irony, and meaning-laden pauses and therefore to avoid recording a sarcastic comment as a serious decision. 
+Furthermore, if note taking is socialised as a shared responsibility within your meeting group's culture, other participants are more likely to make corrections and clarifications to the notes in real time, when they notice the note taker has missed or misunderstood something. 
 
 
-## Other
+### Other
 
-- Requires critical engagement with the meeting!
+Building expectations around shared note taking responsibilities and norms not only gives you clearer, more actionable notes at the end of your meeting - it also ensures a baseline level of critical engagement during the meeting.
+At the very least, your note taker and backup need to be paying attention, and other meeting participants are likely to be paying enough attention to at least make sure their opinions are accurately captured in the notes!
 
 
 :::::::::::::::: callout
@@ -76,6 +82,14 @@ AI notetakers can be useful tools, particularly for Deaf or Hard of Hearing indi
 We recommend allowing AI notetakers on a case-by-case basis if requested by a meeting participant for accessibility reasons.  
 
 :::::::::::::::::::::::::::
+
+
+## How to Take Good Notes
+
+
+
+
+
 
 :::::: keypoints
 
